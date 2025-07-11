@@ -6,7 +6,7 @@ This tool simplifies adding and managing Firefox Search Shortcuts by enabling:
 - Adding custom search shortcuts easily
 - Attaching optimized favicons to each shortcut
 
-![Example](https://github.com/ReverseGem7/bang-shortcuts/blob/22101faf05d7b22897dd62c177c7eeea33689ed8/assets/example.png)
+![Example](https://github.com/ReverseGem7/bang-shortcuts/blob/161c63167d766f77c6ce4fc87b4beddf18e1d76f/assets/example.png)
 
 ## Installation
 
